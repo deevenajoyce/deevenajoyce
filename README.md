@@ -1,27 +1,35 @@
-# Hi there, I'm a CSD Student! 👋
+# Hey there! 👋 I'm a CSD Student 💻
 
 🎓 Computer Science and Data Science student
 
-💻 I enjoy building websites and exploring new technologies.
+I'm passionate about building websites, exploring new technologies, and turning ideas into working projects.
 
-# About Me
-- 🌱 Currently learning Python, Git, GitHub, and Data Science
-- 🛠️ Building web development and student-focused projects
-- 🎯 Working towards becoming a skilled software developer
-- 📚 Learning by building, experimenting, and solving problems
+## 🌱 Currently Learning
 
-## 💻 Technologies I'm Exploring
-- HTML, CSS, JavaScript,java
-- Python
-- React
-- SQL and databases
-- Git and GitHub
+* Python and programming fundamentals
+* Web development with HTML, CSS, JavaScript, java ,and React
+* Git and GitHub
+* Data Science and AI
+* AI Tools for generating .
 
-## 📌 Featured Projects
-Projects coming soon! I'm working on building and sharing my work here.
+## 🛠️ My Tools
 
-## 🤝 Connect With Me
-- GitHub: https://github.com/YOUR-USERNAME
+* VS Code
+* Git and GitHub
+* AI-assisted development tools
+
+## 🚀 My Goals
+
+* Build practical projects
+* Improve my problem-solving skills
+* Explore Data Science and AI
+* Prepare for future internships
+
+## 📌 My Projects
+
+More projects coming soon! Stay tuned as I continue learning and building.
 
 ---
-⭐ Thanks for visiting my profile!
+
+✨ Thanks for visiting my profile!
+
