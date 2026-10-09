@@ -1,8 +1,27 @@
-I'm a second-year Computer Science and Data Science student.
-Currently learning Python,java, web development, and data science.
-Interested in building useful applications.
-Exploring Git, GitHub, and collaborative development.
+# Hi there, I'm a CSD Student! 👋
 
-Working on personal projects to improve my coding skills.
-Technologies I'm awareof:
-Python · HTML · CSS · JavaScript · Git · GitHub  .Java  .AI Tools  .frontend
+🎓 Computer Science and Data Science student
+
+💻 I enjoy building websites and exploring new technologies.
+
+# About Me
+- 🌱 Currently learning Python, Git, GitHub, and Data Science
+- 🛠️ Building web development and student-focused projects
+- 🎯 Working towards becoming a skilled software developer
+- 📚 Learning by building, experimenting, and solving problems
+
+## 💻 Technologies I'm Exploring
+- HTML, CSS, JavaScript,java
+- Python
+- React
+- SQL and databases
+- Git and GitHub
+
+## 📌 Featured Projects
+Projects coming soon! I'm working on building and sharing my work here.
+
+## 🤝 Connect With Me
+- GitHub: https://github.com/YOUR-USERNAME
+
+---
+⭐ Thanks for visiting my profile!
